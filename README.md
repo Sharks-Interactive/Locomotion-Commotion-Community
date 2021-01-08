@@ -15,6 +15,6 @@ Join our discord server ( https://discord.gg/sRUSAKW ) to become a tester or pur
 Locomotion Commotion is being made in Unity with C# and all art is made in Aesprite, sound is edited in Audacity.  
   
 **Who does what?**  
-Owen Silva - Lead Programmer  
-Justin Miller - Lead Artist   
+Owen Silva - Lead Programmer, Assistant Artist   
+Redmond S - Assitant Programmer, Head Artist   
 Mathew M - Contributing Sound Designer  
